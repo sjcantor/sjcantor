@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the [Distributed Compute Protocol](distributed.computer)
+- 🔭 I’m currently working on the [Distributed Compute Protocol](https://distributed.computer)
 - 🌱 I’m currently learning Audio Development with C++
 - 😄 Pronouns: He/Him
 <!--
