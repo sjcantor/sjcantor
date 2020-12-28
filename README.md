@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on the [Distributed Compute Protocol](distributed.computer)
+- 🌱 I’m currently learning Audio Development with C++
+- 😄 Pronouns: He/Him
 <!--
 **sjcantor/sjcantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
