@@ -1,8 +1,9 @@
 ### Hi there 👋
+<!--
 - 🔭 I’m currently working on the [Distributed Compute Protocol](https://distributed.computer)
 - 🌱 I’m currently learning Audio Signal Processing
 - 😄 Pronouns: He/Him
-<!--
+
 **sjcantor/sjcantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
