@@ -1,4 +1,4 @@
-### Hi there 👋
+hi!
 <!--
 - 🔭 I’m currently working on the [Distributed Compute Protocol](https://distributed.computer)
 - 🌱 I’m currently learning Audio Signal Processing
